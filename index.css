@@ -335,7 +335,8 @@ nav {
     flex: 1 2;
     /* background-color: rgb(238,238,238); */
     /* min-width: 20%; */
-   
+
+   padding-right:20px ;
 }
 
 
@@ -343,6 +344,7 @@ nav {
     flex: 2 1;
     /* width: 130%; */
     width: 100%;
+    padding-right: 20px;
   
 }
 
